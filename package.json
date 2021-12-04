@@ -1,10 +1,10 @@
 {
   "name": "react-native-airplay-ios",
-  "description": "AirPlay library for iOS",
+  "description": "AirPlay library for iOS - Edited",
   "summary": "Summary for PODS",
   "version": "1.0.10",
   "author": {
-    "name": "Andrey Efremov"
+    "name": "Simone Carnio"
   },
   "license": "MIT",
   "keywords": [
@@ -20,7 +20,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gazedash/react-native-airplay-ios.git"
+    "url": "git@github.com/SimoneCarnio/react-native-airplay-ios.git"
   },
   "dependencies": {},
   "peerDependencies": {
